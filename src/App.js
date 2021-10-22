@@ -6,8 +6,6 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Testimonials from "./components/Tenstimonials";
 
-import LoadingBar from "./components/LoadingBar";
-
 export default function App() {
 
   // window.scrollTo({
